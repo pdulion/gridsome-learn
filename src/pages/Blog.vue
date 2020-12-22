@@ -8,6 +8,7 @@
       <div>
         <span class="tags" v-for="tag in edge.node.tags" :key="tag">#{{tag}}</span>
       </div>
+      <g-link :to="edge.node.path">Read Post</g-link>
     </article>
   </Layout>
 </template>
@@ -23,6 +24,7 @@
         date (format: "MMMM Do, YYYY")
         tags
         timeToRead
+        path
       }
     }
   }
