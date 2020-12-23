@@ -13,7 +13,14 @@ module.exports = {
       options: {
         typeName: 'Post',
         path: 'content/posts/**/*.md',
-        route: '/posts/:slug'
+        route: '/posts/:slug',
+        refs: {
+          tags: {
+            typeName: 'Tag',
+            route: '/tags/:id',
+            create: true
+          }
+        }
       }
     }
   ]

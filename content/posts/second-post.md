@@ -2,7 +2,8 @@
 title: Second Lionized Post
 excerpt: "Vestibulum sed arcu non odio euismod lacinia at. Tellus id interdum velit laoreet id."
 date: 2020-12-23
-tags: ["art", "technology"]
+tags: ["facewashes", "skin"]
+cover_image: "./images/facewash.jpg"
 ---
 ## Second Post
 

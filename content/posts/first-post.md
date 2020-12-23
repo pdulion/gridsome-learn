@@ -2,7 +2,8 @@
 title: First Lionized Post
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 date: 2020-10-10
-tags: ["shoes", "jackets"]
+tags: ["elixers", "skin"]
+cover_image: "./images/elixer.jpg"
 ---
 ## First Post
 
